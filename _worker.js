@@ -11,7 +11,7 @@ let userID = 'e88678bf-c43f-4518-bd0f-7165f459727d';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['edgetunnel.anycast.eu.org'];
+const proxyIPs= ['132.145.81.117'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
